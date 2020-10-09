@@ -1,2 +1,2 @@
-# mtaman-2021391.github.io/index.html
+# mtaman-2021391.github.io
 Info 101 Stuff
